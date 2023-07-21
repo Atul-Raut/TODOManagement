@@ -20,4 +20,4 @@ TODO list application with React Native and Expo.
 ## How to use application
 ### Default landing page of application
 
-
+![Screenshot](LandingPage.png)
