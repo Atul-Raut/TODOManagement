@@ -21,3 +21,25 @@ TODO list application with React Native and Expo.
 ### Default landing page of application
 
 ![Screenshot](LandingPage.png)
+
+### Add new Topic in TODO list
+![Screenshot](NewTask.png)
+
+![Screenshot](ValidateNewTask.png)
+
+### Start working for Topic
+![Screenshot](StartWorking.png)
+![Screenshot](ValidateNewTask2.png)
+
+### Finish working
+![Screenshot](FinishWorking.png)
+![Screenshot](ValidateNewTask3.png)
+
+### Remove Topic
+![Screenshot](FinishWorking.png)
+![Screenshot](ValidateNewTask3.png)
+
+
+
+
+
