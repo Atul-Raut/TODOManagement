@@ -1,5 +1,5 @@
 # TODO Management
-TODO list application with React Native and Expo.
+TODO list management application using React Native and Expo.
 
 ## Requirements
 1. npm version - 7.19.1
@@ -9,12 +9,14 @@ TODO list application with React Native and Expo.
 
 ## Application setup
 1. Download source code from GitHub.
-2. Unzip source code
-3. Open command promt
-4. Go to extracted project folder
-5. To download required libraries execute below command
-   npm install -force 
-6. To run application execute below command
+2. Unzip downloaded zip file.
+3. Open command prompt.
+4. Go to extracted project folder.
+5. To download required libraries execute below command on commant prompt.
+   
+   npm install --force 
+7. To run application, execute below command on commant prompt.
+   
    npm start
    
 ## How to use application
@@ -31,14 +33,14 @@ TODO list application with React Native and Expo.
 
 ![Screenshot](LandingPage2.png)
 
-### Start working for Topic
+### Start working on Task/Topic
 ![Screenshot](StartWorking.png)
 
 ![Screenshot](ValidateStartWorking.png)
 
 ![Screenshot](StartWorking2.png)
 
-### Finish working
+### Finish working on Task/Topic
 
 ![Screenshot](ValidateFinishWorking1.png)
 
@@ -46,13 +48,17 @@ TODO list application with React Native and Expo.
 
 ![Screenshot](FinishWorking.png)
 
-### Remove Topic
+### Remove Task/Topic
 ![Screenshot](ValidateDeleteTopic1.png)
 
 ![Screenshot](ValidateDeleteTopic2.png)
 
 ![Screenshot](DeleteTopic.png)
 
+## Default data setting
+Modify default TODO list, Doing list, Done list and user id details in Data.js file.
+
+![Screenshot](DefaultData.png)
 
 
 
