@@ -1,0 +1,32 @@
+{
+  "expo": {
+    "name": "PaidyAssignment",
+    "slug": "PaidyAssignment",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/RMLogo.png",
+    "splash": {
+      "image": "./assets/RMLogo.png",
+      "backgroundColor": "#009387",
+      "resizeMode":"contain"
+      
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+     "ios": {
+      "bundleIdentifier": "com.trn.trasport",
+      "buildNumber": "1.0.0"
+    },
+    "android": {
+      "package": "com.trn.trasport",
+      "versionCode": 2
+    },
+    "web": {
+      "favicon": "./assets//Hertz-icon-2.png"
+    }
+  }
+}
