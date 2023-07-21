@@ -33,15 +33,26 @@ TODO list application with React Native and Expo.
 
 ### Start working for Topic
 ![Screenshot](StartWorking.png)
+
 ![Screenshot](ValidateStartWorking.png)
 
+![Screenshot](StartWorking2.png)
+
 ### Finish working
+
+![Screenshot](ValidateFinishWorking1.png)
+
+![Screenshot](ValidateFinishWorking2.png)
+
 ![Screenshot](FinishWorking.png)
-![Screenshot](ValidateFinishWorking.png)
 
 ### Remove Topic
+![Screenshot](ValidateDeleteTopic1.png)
+
+![Screenshot](ValidateDeleteTopic2.png)
+
 ![Screenshot](DeleteTopic.png)
-![Screenshot](ValidateDeleteTopic.png)
+
 
 
 
