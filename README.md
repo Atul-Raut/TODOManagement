@@ -29,6 +29,8 @@ TODO list application with React Native and Expo.
 
 ![Screenshot](ValidateNewTask.png)
 
+![Screenshot](LandingPage2.png)
+
 ### Start working for Topic
 ![Screenshot](StartWorking.png)
 ![Screenshot](ValidateStartWorking.png)
