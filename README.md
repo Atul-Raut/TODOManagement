@@ -1,6 +1,10 @@
 # TODO Management
 TODO list management application using React Native and Expo.
 
+Right now, we're making new topics/tasks and updating their status as "Doing," "Done," or "Delete" for completed tasks. This helps us stay organized and efficient in our work.
+
+We can add a priority system for topics/tasks, making it easier to manage them based on their importance. Additionally, we'll be able to identify and address any delays.
+
 ## Requirements
 1. npm version - 7.19.1
 2. React-Native version - 0.72.3
