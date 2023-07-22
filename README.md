@@ -5,10 +5,13 @@ Right now, we're making new topics/tasks and updating their status as "Doing," "
 
 We can add a priority system for topics/tasks, making it easier to manage them based on their importance. Additionally, we'll be able to identify and address any delays.
 
+Also, we can enhance by analyzing and graphically representing the number of tasks created and completed over time. This will provide valuable insights into project progress and efficiency.
+
 ## Requirements
 1. npm version - 7.19.1
 2. React-Native version - 0.72.3
 3. React version - 18.2.0
+4. EXPO - 42.0.1
 
 
 ## Application setup
